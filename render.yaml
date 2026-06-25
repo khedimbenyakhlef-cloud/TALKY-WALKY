@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: talkywalky
+    runtime: node
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    plan: free
+    envVars:
+      - key: NODE_VERSION
+        value: "20"
