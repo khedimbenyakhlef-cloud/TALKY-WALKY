@@ -1,0 +1,6 @@
+{
+  "name": "TALKY WALKY BENY-JOE",
+  "description": "Système de Communication Satellite & Radio Tactique — Fondé par Khedim Benyakhlef dit Beny Joe, Algérie",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
